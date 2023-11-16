@@ -1,0 +1,39 @@
+body {
+ margin: 0;
+ font-family: 'Pacifico', cursive;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height: 150vh;
+ background-color: #f5c1cb; /* Background color */
+}
+
+.card {
+ background-color: #a3d6f0; /* Card background color */
+ box-shadow: 0 10px 8px rgba(0, 0, 0, 0.1);
+ border-radius: 20px;
+ overflow: hidden;
+}
+
+.content {
+ padding: 20px;
+ text-align: center;
+ 
+}
+
+h1 {
+ color: #f37676; /* Heading color */
+ 
+}
+
+p {
+ color: #000000; /* Paragraph color */
+ font-size: 16px;
+}
+
+img {
+ width: 50%;
+ max-width: 300px;
+ margin-top: 20px;
+ max-height: 600;
+}
